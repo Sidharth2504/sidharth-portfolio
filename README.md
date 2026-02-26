@@ -37,7 +37,7 @@ Run a simple HTTP server:
 ```bash
 python -m http.server 8000
 ```
-Then open `http://localhost:8000` in your browser.
+Then open `sidharth-portfolio0.netlify.app' in your browser.
 
 ## Notes
 - Make sure image `sidharth.jpg` and other assets are included in the repository.
